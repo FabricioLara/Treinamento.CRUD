@@ -1,0 +1,142 @@
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\ApplicationInsights.config
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\csc.exe
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\csc.exe.config
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\csc.rsp
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\csi.exe
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\csi.rsp
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\System.AppContext.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\vbc.exe
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\vbc.exe.config
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\vbc.rsp
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Treinamento.CRUD.Web.dll.config
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Treinamento.CRUD.Web.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Treinamento.CRUD.Web.pdb
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Antlr3.Runtime.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.Web.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Newtonsoft.Json.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\System.Web.Optimization.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\WebGrease.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\System.Web.Optimization.xml
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Antlr3.Runtime.pdb
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Newtonsoft.Json.xml
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.Web.xml
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\obj\Debug\Treinamento.CRUD.Web.csprojResolveAssemblyReference.cache
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\obj\Debug\Treinamento.CRUD.Web.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\obj\Debug\Treinamento.CRUD.Web.pdb
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Treinamento.CRUD.Dominio.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Treinamento.CRUD.Dominio.pdb
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\EntityFramework.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Treinamento.CRUD.Dominio.dll.config
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\EntityFramework.xml
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Treinamento.CRUD.Repository.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Treinamento.CRUD.Repository.pdb
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\ApplicationInsights.config
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\csc.exe
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\csc.exe.config
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\csc.rsp
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\csi.exe
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\csi.rsp
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\System.AppContext.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\vbc.exe
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\vbc.exe.config
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\vbc.rsp
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\VBCSCompiler.exe
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Treinamento.CRUD.Web.dll.config
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Treinamento.CRUD.Web.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Treinamento.CRUD.Web.pdb
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Antlr3.Runtime.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\EntityFramework.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\EntityFramework.SqlServer.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.Web.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Newtonsoft.Json.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\System.Web.Optimization.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Treinamento.CRUD.Dominio.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Treinamento.CRUD.Repository.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\WebGrease.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Treinamento.CRUD.Dominio.pdb
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Treinamento.CRUD.Dominio.dll.config
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Treinamento.CRUD.Repository.pdb
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\EntityFramework.xml
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\EntityFramework.SqlServer.xml
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\System.Web.Optimization.xml
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Antlr3.Runtime.pdb
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Newtonsoft.Json.xml
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\bin\Microsoft.AI.Web.xml
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\obj\Debug\Treinamento.CRUD.Web.csprojResolveAssemblyReference.cache
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\obj\Debug\Treinamento.CRUD.Web.dll
+C:\Fabricio Lara\Git\CSharp\Treinamento.CRUD\Treinamento.CRUD.Web\obj\Debug\Treinamento.CRUD.Web.pdb

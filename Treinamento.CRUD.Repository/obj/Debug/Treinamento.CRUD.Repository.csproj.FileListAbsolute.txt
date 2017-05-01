@@ -1,0 +1,8 @@
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Repository\bin\Debug\Treinamento.CRUD.Repository.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Repository\bin\Debug\Treinamento.CRUD.Repository.pdb
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Repository\bin\Debug\Treinamento.CRUD.Dominio.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Repository\bin\Debug\Treinamento.CRUD.Dominio.pdb
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Repository\obj\Debug\Treinamento.CRUD.Repository.csprojResolveAssemblyReference.cache
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Repository\obj\Debug\Treinamento.CRUD.Repository.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Repository\obj\Debug\Treinamento.CRUD.Repository.pdb
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Repository\bin\Debug\Treinamento.CRUD.Dominio.dll.config

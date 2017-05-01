@@ -1,0 +1,13 @@
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Dominio\bin\Debug\Treinamento.CRUD.Dominio.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Dominio\bin\Debug\Treinamento.CRUD.Dominio.pdb
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Dominio\obj\Debug\Treinamento.CRUD.Dominio.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Dominio\obj\Debug\Treinamento.CRUD.Dominio.pdb
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Dominio\bin\Debug\Treinamento.CRUD.Dominio.dll.config
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Dominio\bin\Debug\EntityFramework.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Dominio\bin\Debug\EntityFramework.xml
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Dominio\obj\Debug\Treinamento.CRUD.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Dominio\obj\Debug\Treinamento.CRUD.Dominio.Migrations.Initial.resources
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Dominio\obj\Debug\Treinamento.CRUD.Dominio.csproj.GenerateResource.Cache
+C:\Users\fas_c\Documents\Visual Studio 2017\Projects\Treinamento.CRUD\Treinamento.CRUD.Dominio\obj\Debug\Treinamento.CRUD.Dominio.Migrations.Endereco.resources
