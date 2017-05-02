@@ -12,14 +12,14 @@ namespace Treinamento.CRUD.Web.Site.UserControl
     {
         public int CodigoUF
         {
-            get { return Convert.ToInt32(ddlUF.SelectedValue); }
-            set { ddlUF.SelectedValue = value.ToString(); }
+            get;
+            set;
         }
 
         public int CodigoCidade
         {
-            get { return Convert.ToInt32(ddlCidade.SelectedValue); }
-            set { ddlCidade.SelectedValue = value.ToString(); }
+            get;
+            set;
         }
 
         public string Logradouro
